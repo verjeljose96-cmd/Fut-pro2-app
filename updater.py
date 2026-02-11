@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import os
 
-API_KEY = "PEGA_AQUI_TU_TOKEN"
+API_KEY = "1ebf9cc134674f68bfc2c86bf9e8c8f7"
 
 HEADERS = {
     "X-Auth-Token": API_KEY
